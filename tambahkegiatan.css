@@ -1,0 +1,111 @@
+html{
+    background-color: #DBE4C6;
+    font-family: rockwell;
+}
+
+h1{
+  font-size: 60px;
+  text-align: center;
+  text-shadow: #ffffff8e 2px 5px 2px;
+  padding: 20px;
+  height: 70px;
+  background-color: #AEC2B6;
+  color: #687a70;
+  font-family: rockwell;
+}
+
+h1 img#daunkiri{
+  position:absolute;
+  margin-left: -60px;
+  width: 60px;
+  height: 70px;
+}
+
+h1 img#daunkanan{
+  position:absolute;
+  width: 60px;
+  height: 70px;
+  transform: rotateY(180deg);
+}
+
+img {
+    width: 30px;
+}
+
+header{
+  position:sticky;
+  top: 0;
+  width: 5px 15px;
+  height: 80px;
+  margin: -10px;
+  margin-top: -42px;
+}
+
+#kegiatan{
+  font-size: 20px;
+  margin-top: 90px;
+  font-style: italic;
+}
+
+
+h5{
+    color: #607568;
+    text-align: center;
+    background-color: #BBD6B8;
+    height: 15px;
+    padding: 10px;
+    width: 200px;
+    margin-top: -10px;
+    border-radius: 20px;
+}
+
+footer{
+    height: 10%;
+    padding: 1px;
+    background-color: #AEC2B6;
+    color: #687a70;
+    clear: both;
+    text-align: center;
+    font-size: 10px;
+    position:relative;
+    bottom: 0;
+    margin-top: 30%;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-bottom: -10px;
+  }
+  
+img {
+  width: 20px;
+  height: 20px;
+}
+
+#atas{
+  font-weight: bold;
+  font-size:small;
+}
+
+.garis{
+  color: #687a70a3;
+}
+
+a{
+    color: inherit;
+    text-decoration: none;
+}
+
+#back{
+  padding: 5px;
+  background-color: #89a293;
+  font-weight: bold;
+  text-align: center;
+  font-size: 15px;
+  color: #687a70;
+  width: 100px;
+  height: 15px;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
+  margin-top: 50px;
+  margin-left: -10px;
+  box-shadow: inset 1px 5px 25px 5px #b0c1b7, 5px 5px 12px 2px rgba(0, 0, 0, 0.384);
+}
